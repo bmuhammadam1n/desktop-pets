@@ -2,7 +2,7 @@
 
 Animated pixel-art companions that live on your Linux desktop. They walk, jump, idle, fall, and land on top of your open windows — and you can pick them up and throw them.
 
-![Desktop Pets in action]
+[![Desktop Pets in action]](https://github.com/user-attachments/assets/fb6cb028-5b9c-4eea-b515-8bec43e6c8ed)
 
 ---
 
