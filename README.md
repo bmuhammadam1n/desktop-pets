@@ -64,7 +64,6 @@ desktop-pets
 To run without installing:
 
 ```bash
-cd gnomelets-py
 bash run.sh
 ```
 
