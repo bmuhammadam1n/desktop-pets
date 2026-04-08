@@ -2,7 +2,7 @@
 
 Animated pixel-art companions that live on your Linux desktop. They walk, jump, idle, fall, and land on top of your open windows — and you can pick them up and throw them.
 
-![Desktop Pets in action](characters/icon.png)
+![Desktop Pets in action]
 
 ---
 
@@ -36,7 +36,7 @@ Animated pixel-art companions that live on your Linux desktop. They walk, jump, 
 ```bash
 # 1. Extract the zip
 unzip desktop-pets.zip
-cd gnomelets-py
+
 
 # 2. Run the installer
 bash install.sh
